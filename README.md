@@ -1,3 +1,3 @@
 # Bootcamp-website
 
-A Simple bootcamp  website built with Bootstrap , basic CSS and basic  HTML
+A Simple bootcamp  website built with Bootstrap (js and css) , basic CSS and basic  HTML
